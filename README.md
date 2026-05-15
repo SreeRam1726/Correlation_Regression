@@ -82,7 +82,8 @@ plt.legend(['Regression Line', 'Data points'])
 
 plt.show()
 ```
-# Output 
-<img width="845" height="626" alt="image" src="https://github.com/user-attachments/assets/ff464e1d-86a7-454d-bfb1-78f39d1a4617" />
 # Result
 The correction and regression for data analysis of objects from feeder using probability distribution are calculated
+
+# Output 
+<img width="845" height="626" alt="image" src="https://github.com/user-attachments/assets/ff464e1d-86a7-454d-bfb1-78f39d1a4617" />
